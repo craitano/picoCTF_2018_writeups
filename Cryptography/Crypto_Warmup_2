@@ -1,11 +1,16 @@
-Problem:
+# Crypto Warmup 2
+__Category:__ Cryptography  
+__Points:__ 75
 
-Cryptography doesn't have to be complicated, have you ever heard of something called rot13? cvpbPGS{guvf_vf_pelcgb!}
+### Problem:
 
-Solution:
+Cryptography doesn't have to be complicated, have you ever heard of something called rot13? `cvpbPGS{guvf_vf_pelcgb!}`
 
-Enter the encrypted flag in an online rot13 decryption tool or use the following python3 script:
+### Solution:
 
+Enter the encrypted flag in an online rot13 decryption tool or use the following python3 script.
+
+```Python
 msg = str(input("Message: ")).lower()
 out = ""
 
@@ -18,9 +23,9 @@ for i in range(0, len(msg)):
         val += 96
     out += chr(val)
 print(out)
+```
 
-
-Flag:
+### Flag:
 
 picoCTF{this_is_crypto!}
 

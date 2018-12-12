@@ -8,7 +8,7 @@ If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII?
 
 ### Solution:
 
-Use a hex to ascii converter to get the flag. I just found one online.
+Use a hex to ascii converter to get the flag.
 
 ### Flag:
 

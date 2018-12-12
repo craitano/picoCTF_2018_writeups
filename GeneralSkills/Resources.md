@@ -8,7 +8,7 @@ We put together a bunch of resources to help you out on our website! If you go o
 
 Solution:
 
-Visit the link and find the flag on the page
+Visit the link and find the flag on the page.
 
 Flag:
 

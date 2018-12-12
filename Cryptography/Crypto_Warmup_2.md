@@ -8,7 +8,7 @@ Cryptography doesn't have to be complicated, have you ever heard of something ca
 
 ### Solution:
 
-Enter the encrypted flag in an online rot13 decryption tool or use the following python3 script.
+Enter the encrypted flag in an online rot13 decryption tool or use the following python 3 script.
 
 ```Python
 msg = str(input("Message: ")).lower()

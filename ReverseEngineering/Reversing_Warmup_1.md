@@ -14,7 +14,7 @@ Login to the picoCTF shell and enter the following command to navigate to the gi
 cd /problems/reversing-warmup-1_3_7c0eade7faf60ffe3485e12098e2a6c2
 ```
 
-Enter the command to list files in the directory:
+Use the ls command to list files in the directory:
 
 ```bash
 ls

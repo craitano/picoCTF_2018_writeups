@@ -8,7 +8,7 @@ Hmm for some reason I can't open this [PNG](https://2018shell3.picoctf.com/stati
 
 ### Solution:
 
-When I downloaded the image it was named "flag.png". Based on the hint I'd assume the download is supposed to be named "flag: without the file extension. If this is the case rename it with a .png extension. Open the image in an image viewer to see the flag.
+When I downloaded the image it was named "flag.png". Based on the hint I'd assume the download is supposed to be named "flag" without the file extension. If this is the case rename it with a .png extension. Open the image in an image viewer to see the flag.
 
 ### Flag:
 

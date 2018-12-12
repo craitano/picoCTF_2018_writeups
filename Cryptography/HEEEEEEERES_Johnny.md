@@ -1,6 +1,6 @@
-# Reversing Warmup 1
-__Category:__ Reverse Engineering
-__Points:__ 50
+# HEEEEEEERE'S Johnny!
+__Category:__ Cryptography  
+__Points:__ 100
 
 ### Problem:
 

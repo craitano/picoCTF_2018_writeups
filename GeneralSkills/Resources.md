@@ -12,5 +12,5 @@ Visit the link and find the flag on the page
 
 Flag:
 
-picoCTF{xiexie_ni_lai_zheli}
-__Fun Fact:__ This is chinese for "Thank you for coming here"
+picoCTF{xiexie_ni_lai_zheli}  
+__Fun Fact:__ This is translates to "Thank you for coming here"

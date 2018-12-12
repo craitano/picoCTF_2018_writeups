@@ -1,5 +1,5 @@
 # hertz
-__Category:__ Cryptography
+__Category:__ Cryptography  
 __Points:__ 150
 
 ### Problem:

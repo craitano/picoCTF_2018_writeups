@@ -13,4 +13,4 @@ Visit the link and find the flag on the page.
 ### Flag:
 
 picoCTF{xiexie_ni_lai_zheli}  
-_Fun Fact:_ This is translates to "Thank you for coming here"
+__Fun Fact:__ This is translates to "Thank you for coming here"

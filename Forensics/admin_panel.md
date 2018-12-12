@@ -8,7 +8,7 @@ We captured some [traffic](https://2018shell3.picoctf.com/static/4b72ffeae766b01
 
 ### Solution:
 
-I opened the file in a text editor and searched for picoCTF, which then showed the flag
+I opened the file in a text editor and searched for picoCTF, which then showed the flag.
 
 ### Flag:
 

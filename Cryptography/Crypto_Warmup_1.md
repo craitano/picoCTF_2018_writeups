@@ -4,7 +4,7 @@ __Points:__ 75
 
 ### Problem:
 
-Crpyto can often be done by hand, here's a message you got from a friend, llkjmlmpadkkc with the key of thisisalilkey. Can you use this table to solve it?.
+Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](https://2018shell3.picoctf.com/static/7e80900bd1afae76845553d895e271e1/table.txt) to solve it?.
 
 ### Solution:
 

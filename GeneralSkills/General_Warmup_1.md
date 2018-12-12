@@ -1,5 +1,5 @@
 # General Warmup 1
-__Category:__ General Skills
+__Category:__ General Skills  
 __Points:__ 50
 
 ### Problem:

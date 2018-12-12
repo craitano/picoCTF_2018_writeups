@@ -1,5 +1,5 @@
 # Crypto Warmup 1
-__Category:__ Cryptography
+__Category:__ Cryptography  
 __Points:__ 75
 
 ### Problem:

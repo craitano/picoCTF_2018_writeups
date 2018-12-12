@@ -8,7 +8,7 @@ Okay, so we found some important looking files on a linux computer. Maybe they c
 
 ### Solution:
 
-For this problem I used John The Ripper (a popular password cracking tool for Unix/Linux). After installing it I downloaded given shadow file and ran the comand:
+For this problem I used John The Ripper, a popular password cracking tool for Unix/Linux. After installing it I downloaded given shadow file and ran the comand:
 
 ```bash
 john shadow

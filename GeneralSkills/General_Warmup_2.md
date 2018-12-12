@@ -8,7 +8,7 @@ Can you convert the number 27 (base 10) to binary (base 2)?
 
 ### Solution:
 
-Use a decimal to binary converter to convert 27 to binary. I just found one online.
+Use a decimal to binary converter to convert 27 to binary.
 
 ### Flag:
 

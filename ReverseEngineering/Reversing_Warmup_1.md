@@ -1,5 +1,5 @@
 # Reversing Warmup 1
-__Category:__ Reverse Engineering
+__Category:__ Reverse Engineering  
 __Points:__ 50
 
 ### Problem:

@@ -1,0 +1,12 @@
+Problem:
+
+Can you unzip this file for me and retreive the flag?
+
+Solution:
+
+Unzip the file and open flag.jpg in an image viewer to see the flag
+
+Flag:
+
+picoCTF{welcome_to_forensics}
+

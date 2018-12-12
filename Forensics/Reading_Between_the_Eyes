@@ -1,0 +1,17 @@
+Problem:
+
+Stego-Saurus hid a message for you in this image, can you retreive it?
+
+Solution:
+
+This problem uses lsb steganography with data hidden in the r, g, and b channels.
+By looking at the least significant bits you can extract an ascii encoded string and convert it to text to get the flag.
+
+I created a python stegonagraphy tool to achieve this and have made it available under the GPL https://github.com/craitano/LSB-Stegonography
+
+Just place the picture in the same directory as the script and run ./lsbsteg husky.png
+
+Flag:
+
+picoCTF{r34d1ng_b37w33n_7h3_by73s}
+

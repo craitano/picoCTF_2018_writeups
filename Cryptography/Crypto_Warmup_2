@@ -1,0 +1,26 @@
+Problem:
+
+Cryptography doesn't have to be complicated, have you ever heard of something called rot13? cvpbPGS{guvf_vf_pelcgb!}
+
+Solution:
+
+Enter the encrypted flag in an online rot13 decryption tool or use the following python3 script:
+
+msg = str(input("Message: ")).lower()
+out = ""
+
+# encrypt/decrypt
+for i in range(0, len(msg)):
+    val = ord(msg[i])
+    if(val > 96 and val < 123):
+        val -= 83
+        val %= 26
+        val += 96
+    out += chr(val)
+print(out)
+
+
+Flag:
+
+picoCTF{this_is_crypto!}
+

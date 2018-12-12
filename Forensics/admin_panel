@@ -1,0 +1,12 @@
+Problem:
+
+We captured some traffic logging into the admin panel, can you find the password?
+
+Solution:
+I opened the file in a text editor and searched for picoCTF, which then showed the flag
+
+
+Flag:
+
+picoCTF{n0ts3cur3_b186631d}
+

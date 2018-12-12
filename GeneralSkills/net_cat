@@ -1,0 +1,16 @@
+Problem:
+
+Using netcat (nc) will be a necessity throughout your adventure. Can you connect to 2018shell2.picoctf.com at port 22847 to get the flag?
+
+Solution:
+
+Connect usin the following command:
+
+nc 2018shell2.picoctf.com 22847
+
+This gives the flag
+
+Flag:
+
+picoCTF{NEtcat_iS_a_NEcESSiTy_69222dcc}
+

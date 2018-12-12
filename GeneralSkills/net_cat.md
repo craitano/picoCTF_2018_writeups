@@ -16,7 +16,7 @@ nc 2018shell2.picoctf.com 22847
 
 Note the address and port may be different for you.
 
-This gives the flag
+This gives the flag.
 
 ### Flag:
 

@@ -1,4 +1,4 @@
-# General Warmup 1
+# Resources
 __Category:__ General Skills  
 __Points:__ 50
 

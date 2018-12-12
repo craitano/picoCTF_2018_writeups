@@ -37,15 +37,15 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [Secret Agent](WebExploitation/Secret_Agent)
 
 ## Reverse Engineering
-- [Reversing Warmup 1](ReverseEngineering/Reversing_Warmup_1.md)
-- [Reversing Warmup 2](ReverseEngineering/Reversing_Warmup_2.md)
-- [assembly-0](ReverseEngineering/assembly-0.md)
+- [Reversing Warmup 1](ReverseEngineering/Reversing_Warmup_1)
+- [Reversing Warmup 2](ReverseEngineering/Reversing_Warmup_2)
+- [assembly-0](ReverseEngineering/assembly-0)
 
 ## Forensics
-- [Forensics Warmup 1](Forensics/Forensics_Warmup_1.md)
-- [Forensics Warmup 2](Forensics/Forensics_Warmup_2.md)
-- [Desrouleaux](Forensics/Desrouleaux.md)
-- [Reading Between the Eyes](Forensics/Reading_Between_the_Eyes.md)
-- [Recovering From the Snap](Forensics/Recovering_From_the_Snap.md)
-- [admin panel](Forensics/admin_panel.md)
-- [hex editor](Forensics/hex-editor.md)
+- [Forensics Warmup 1](Forensics/Forensics_Warmup_1)
+- [Forensics Warmup 2](Forensics/Forensics_Warmup_2)
+- [Desrouleaux](Forensics/Desrouleaux)
+- [Reading Between the Eyes](Forensics/Reading_Between_the_Eyes)
+- [Recovering From the Snap](Forensics/Recovering_From_the_Snap)
+- [admin panel](Forensics/admin_panel)
+- [hex editor](Forensics/hex-editor)

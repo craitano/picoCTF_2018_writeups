@@ -36,15 +36,19 @@ I then used the following command to show the username:
 whoami
 ```
 
-I had a really difficult time after this. I used cd to go back to the home directory and attempted to copy the TopSecret file from /tmp, /var/tmp, $TMPDIR, and $TMP to no avail. It turns out you have to be in the executables directory, despite the hint you get when you type "echo 'Help Me!'" which states that you must be in the home directory.
+I had a difficult time after this. I used cd to go back to the home directory and attempted to copy the TopSecret file from /tmp, /var/tmp, $TMPDIR, and $TMP to no avail. It turns out you have to be in the executables directory, despite the hint you get when you type "echo 'Help Me!'" which states that you must be in the home directory.
 
 From the executables directory enter the following command:
 
+```bash
 cp /tmp/TopSecret ../passwords
+```
 
 Then navigate to the passwords directory and enter the followin command:
 
+```bash
 cat TopSecret
+```
 
 At the bottom of the output it lists the flag.
 

@@ -1,5 +1,5 @@
 # Forensics Warmup 1
-__Category:__ forensics
+__Category:__ Forensics
 __Points:__ 50
 
 ### Problem:

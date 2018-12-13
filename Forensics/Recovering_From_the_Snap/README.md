@@ -4,7 +4,10 @@ __Points:__ 150
 
 ### Problem:
 
-There used to be a bunch of [animals](https://2018shell3.picoctf.com/static/040c56434beb57348cc5032272c04350/animals.dd) here, what did Dr. Xernon do to them?
+There used to be a bunch of [animals](animals.dd) here, what did Dr. Xernon do to them?
+
+##### Hints:
+> Some files have been deleted from the disk image, but are they really gone?
 
 ### Solution:
 

@@ -4,7 +4,10 @@ __Points:__ 75
 
 ### Problem:
 
-Can you find the flag in [file](https://2018shell3.picoctf.com/static/6d526817c43e36d4c2dec2b4ea997bfe/file)? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in /problems/grep-1_4_0431431e36a950543a85426d0299343e on the shell server.
+Can you find the flag in [file](file)? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in /problems/grep-1_4_0431431e36a950543a85426d0299343e on the shell server.
+
+##### Hints:
+> grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
 ### Solution:
 

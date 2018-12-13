@@ -4,7 +4,10 @@ __Points:__ 100
 
 ### Problem:
 
-Can you find the flag in this [file](https://2018shell3.picoctf.com/static/a3d311b507256d5d9299c0e94dfc4fc5/strings) without actually running it? You can also find the file in /problems/strings_2_b7404a3aee308619cb2ba79677989960 on the shell server.
+Can you find the flag in this [file](strings) without actually running it? You can also find the file in /problems/strings_2_b7404a3aee308619cb2ba79677989960 on the shell server.
+
+##### Hints:
+> [strings](https://linux.die.net/man/1/strings)
 
 ### Solution:
 

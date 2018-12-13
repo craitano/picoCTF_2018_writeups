@@ -4,7 +4,12 @@ __Points:__ 100
 
 ### Problem:
 
-Okay, so we found some important looking files on a linux computer. Maybe they can be used to get a password to the process. Connect with `nc 2018shell2.picoctf.com 5221`. Files can be found here: [passwd](https://2018shell3.picoctf.com/static/0cae99a3ebd7de5e0547e1ff8da980a0/passwd) [shadow](https://2018shell3.picoctf.com/static/0cae99a3ebd7de5e0547e1ff8da980a0/shadow).
+Okay, so we found some important looking files on a linux computer. Maybe they can be used to get a password to the process. Connect with `nc 2018shell2.picoctf.com 5221`. Files can be found here: [passwd](passwd) [shadow](shadow).
+
+##### Hints:
+> If at first you don't succeed, try, try again. And again. And again.
+
+> If you're not careful these kind of problems can really "rockyou".
 
 ### Solution:
 

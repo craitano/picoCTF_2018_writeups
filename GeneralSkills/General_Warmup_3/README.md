@@ -8,7 +8,11 @@ What is 0x3D (base 16) in decimal (base 10).
 
 ### Solution:
 
-Use a hex to decimal coverter to convert 3D to decimal.
+Use a hex to decimal coverter to convert 3D to decima or use the following bash command:
+
+```Bash
+echo "ibase=16;3D" | bc
+```
 
 ### Flag:
 

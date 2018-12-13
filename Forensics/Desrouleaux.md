@@ -4,13 +4,14 @@ __Points:__ 150
 
 ### Problem:
 
-Our network administrator is having some trouble handling the tickets for all of of our incidents. Can you help him out by answering all the questions? Connect with `nc 2018shell2.picoctf.com 10493`. [incidents.json](https://2018shell3.picoctf.com/static/9a34d3edda040f8c10c208405804ebea/incidents.json)
+Our network administrator is having some trouble handling the tickets for all of of our incidents. Can you help him out by answering all the questions? Connect with `nc 2018shell2.picoctf.com 10493`. [incidents.json](incidents.json)
+
+##### Hints:
+> If you need to code, python has some good libraries for it.
 
 ### Solution:
 
 I first opened the json file and established a connection to the given port. I then looked at the information in the json file to answer the questions:
-
-
 
 __Q1:__ What is the most common source IP address? If there is more than one IP address that is the most common, you may give any of the most common ones.  
 __A1:__ 53.196.3.10  

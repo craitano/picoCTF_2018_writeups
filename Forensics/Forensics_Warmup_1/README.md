@@ -4,7 +4,7 @@ __Points:__ 50
 
 ### Problem:
 
-Can you unzip this [file](https://2018shell3.picoctf.com/static/d6487f8e2cbbb28b5168b512f0ac0710/flag.zip) for me and retreive the flag?
+Can you unzip this [file](flag.zip) for me and retreive the flag?
 
 ### Solution:
 

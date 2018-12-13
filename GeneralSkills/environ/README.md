@@ -6,6 +6,9 @@ __Points:__ 150
 
 Sometimes you have to configure environment variables before executing a program. Can you find the flag we've hidden in an environment variable on the shell server?
 
+##### Hints:
+> unix [env](https://www.tutorialspoint.com/unix/unix-environment.htm)
+
 ### Solution:
 
 First I logged in on the shell server. Then I used the printenv command to get all of the environment variables. I piped this output to grep to search for the flag as follows:

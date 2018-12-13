@@ -4,7 +4,12 @@ __Points:__ 75
 
 ### Problem:
 
-Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](https://2018shell3.picoctf.com/static/7e80900bd1afae76845553d895e271e1/table.txt) to solve it?.
+Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](table.txt) to solve it?.
+
+##### Hints:
+> Submit your answer in our competition's flag format. For example, if you answer was 'hello', you would submit 'picoCTF{HELLO}' as the flag.
+
+> Please use all caps for the message.
 
 ### Solution:
 
@@ -30,7 +35,7 @@ print(out)
 
 Alternatively if you would like to use the given table, find the column for the first character of the message then find the first letter of the key within that column. The first letter of the flag will be the label for this row. Repeat this for the remaining letters in the message/key to get all of the letters in the flag.
 
-Make sure to enter the flag in all caps. 
+Make sure to enter the flag in all caps. I didn't read the hints when I was solving this. Oops!
 
 ### Flag:
 

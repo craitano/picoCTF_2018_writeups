@@ -6,6 +6,9 @@ __Points:__ 50
 
 Can you unzip this [file](flag.zip) for me and retreive the flag?
 
+##### Hints:
+> Make sure to submit the flag as picoCTF{XXXXX}
+
 ### Solution:
 
 Unzip the file and open flag.jpg in an image viewer to see the flag

@@ -6,6 +6,9 @@ __Points:__ 150
 
 It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with `nc 2018shell2.picoctf.com 33158`.
 
+##### Hints:
+> Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
+
 ### Solution:
 
 I used the given command to connect to the server. I then used ls to see what files were available in the shell. After using cd to look through all of the folders it seemed secret was the only one with anything in it. I then ran the following commands to delete the intel files as described by the program:

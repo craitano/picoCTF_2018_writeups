@@ -4,7 +4,7 @@ __Points:__ 50
 
 ### Problem:
 
-Hmm for some reason I can't open this [PNG](https://2018shell3.picoctf.com/static/1e9d081292d7bf0fc19c5dc43fc7bfc2/flag.png)? Any ideas?
+Hmm for some reason I can't open this [PNG](flag.png)? Any ideas?
 
 ### Solution:
 

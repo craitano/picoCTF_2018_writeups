@@ -6,6 +6,9 @@ __Points:__ 75
 
 Using netcat (nc) will be a necessity throughout your adventure. Can you connect to `2018shell2.picoctf.com` at port `22847` to get the flag?
 
+##### Hints:
+> nc [tutorial](https://linux.die.net/man/1/nc)
+
 ### Solution:
 
 I connected using the following bash command:

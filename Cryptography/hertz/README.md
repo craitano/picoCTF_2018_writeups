@@ -6,9 +6,12 @@ __Points:__ 150
 
 Here's another simple cipher for you where we made a bunch of substitutions. Can you decrypt it? Connect with `nc 2018shell3.picoctf.com 48487`
 
+##### Hints:
+> NOTE: Flag is not in the usual flag format
+
 ### Solution:
 
-Entering the given command in a terminal provided a bunch of ciphertext. I assumed it was a substitution cipher based on the problem statement.
+Entering the given command in a terminal provided a bunch of [ciphertext](ciphertext). I assumed it was a substitution cipher based on the problem statement.
 
 I solved this using a substitution cipher tool at [https://www.dcode.fr/monoalphabetic-substitution](https://www.dcode.fr/monoalphabetic-substitution) and selecting "Manual decryption." After putting in the cipher and clicking the "Decypt" button I began filling in the substitution alphabet. This method is kind of a guess and check type solution but wasn't too difficult to figure out.
 

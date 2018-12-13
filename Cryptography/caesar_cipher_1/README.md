@@ -4,7 +4,10 @@ __Points:__ 150
 
 ### Problem:
 
-This is one of the older ciphers in the books, can you decrypt the [message](https://2018shell3.picoctf.com/static/1496b9c149dea14875a4f750169a7af1/ciphertext)? You can find the ciphertext in /problems/caesar-cipher-1_1_6fbf7a9ce0aac23bab1c37836cc20c3b on the shell server.
+This is one of the older ciphers in the books, can you decrypt the [message](ciphertext)? You can find the ciphertext in /problems/caesar-cipher-1_1_6fbf7a9ce0aac23bab1c37836cc20c3b on the shell server.
+
+##### Hints:
+> caesar cipher [tutorial](https://learncryptography.com/classical-encryption/caesar-cipher)
 
 ### Solution:
 

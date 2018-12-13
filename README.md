@@ -28,6 +28,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [buffer overflow 0](BinaryExploitation/buffer_overflow_0)
 
 ## Web Exploitation
+__Note:__ Many of these require the picoCTF servers to interact with. I don't know how long the servers will remain active, but once the servers are shut down some required websites will no longer be available.
 - [Inspect Me](WebExploitation/Inspect_Me)
 - [Client Side is Still Bad](WebExploitation/Client_Side_is_Still_Bad)
 - [Logon](WebExploitation/Logon)

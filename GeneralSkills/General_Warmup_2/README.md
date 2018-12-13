@@ -8,7 +8,11 @@ Can you convert the number 27 (base 10) to binary (base 2)?
 
 ### Solution:
 
-Use a decimal to binary converter to convert 27 to binary.
+Use a decimal to binary converter to convert 27 to binary or use the following bash command:
+
+```Bash
+echo "obase=2;27" | bc
+```
 
 ### Flag:
 

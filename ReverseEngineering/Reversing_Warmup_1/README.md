@@ -4,7 +4,7 @@ __Points:__ 50
 
 ### Problem:
 
-Throughout your journey you will have to run many programs. Can you navigate to /problems/reversing-warmup-1_3_7c0eade7faf60ffe3485e12098e2a6c2 on the shell server and run this [program](https://2018shell3.picoctf.com/static/ed5cc27f269a3a4653f0a65b2e8a2d46/run) to retreive the flag?
+Throughout your journey you will have to run many programs. Can you navigate to /problems/reversing-warmup-1_3_7c0eade7faf60ffe3485e12098e2a6c2 on the shell server and run this [program](run) to retreive the flag?
 
 ##### Hints:
 > If you are searching online, it might be worth finding how to exeucte a program in command line.

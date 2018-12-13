@@ -4,7 +4,12 @@ __Points:__ 150
 
 ### Problem:
 
-What does asm0(0xd8,0x7a) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. [Source](https://2018shell3.picoctf.com/static/05434007b9c46274206db32fa32a3595/intro_asm_rev.S) located in the directory at /problems/assembly-0_1_fc43dbf0079fd5aab87236bf3bf4ac63.
+What does asm0(0xd8,0x7a) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. [Source](intro_asm_rev.S) located in the directory at /problems/assembly-0_1_fc43dbf0079fd5aab87236bf3bf4ac63.
+
+##### Hints:
+> basical assembly [tutorial](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
+
+> assembly [registers](https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm)
 
 ### Solution:
 

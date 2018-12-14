@@ -17,7 +17,6 @@ __Q1:__ What is the most common source IP address? If there is more than one IP 
 __A1:__ 53.196.3.10  
 because this is the src_ip which appears in the most tickets
 
-
 __Q2:__ How many unique destination IP addresses were targeted by the source IP address 205.210.212.253?  
 _Note:_ Answers to this question may vary since it picks one of the ip addresses randomly.  
 __A2:__ 2  

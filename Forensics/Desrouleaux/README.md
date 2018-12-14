@@ -13,7 +13,6 @@ Our network administrator is having some trouble handling the tickets for all of
 
 I first opened the json file and established a connection to the given port. I then looked at the information in the json file to answer the questions:
 
-
 __Q1:__ What is the most common source IP address? If there is more than one IP address that is the most common, you may give any of the most common ones.  
 __A1:__ 53.196.3.10  
 because this is the src_ip which appears in the most tickets

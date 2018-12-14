@@ -47,7 +47,7 @@ part_c:
 	add	eax,0x3                  ; add 0x3 to register eax
 part_d:
 	pop	ebp                      ; restore the base pointer
-	ret                          ; return the value in register eax
+	ret                              ; return the value in register eax
 ```
 The first cmp will result with 0x15e > 0xdc so it will jump to part_a. The cmp in part a willl then result with 0x15e not equal to 0x68 so it will jump to part_c. Part c will then add 0x3 and store the result (0x161) in eax. The program then continues into part_d and returns this value.
 

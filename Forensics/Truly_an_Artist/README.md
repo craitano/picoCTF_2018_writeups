@@ -4,7 +4,7 @@ __Points:__ 200
 
 ### Problem:
 
-Can you help us find the flag in this [Meta-Material](2018.PNG)? You can also find the file in /problems/truly-an-artist_4_cdd9e325cf9bacd265b98a7fe336e840.
+Can you help us find the flag in this [Meta-Material](2018.png)? You can also find the file in /problems/truly-an-artist_4_cdd9e325cf9bacd265b98a7fe336e840.
 
 ##### Hints:
 > Try looking beyond the image.

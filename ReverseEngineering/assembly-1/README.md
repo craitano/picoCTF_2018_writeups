@@ -16,7 +16,7 @@ Here is a brief description of what each line in the asm0 function does:
 
 ```Assembly
 asm1:
-	push	ebp                    ; put rthe base pointer on the stack
+	push	ebp                      ; put rthe base pointer on the stack
 	mov	ebp,esp                  ; move the base pointer to the stack pointer
 	cmp	DWORD PTR [ebp+0x8],0xdc ; compare the first parameter to 0xdc
 	jg 	part_a	                 ; if it is greter than 0xdc then jump to part_a

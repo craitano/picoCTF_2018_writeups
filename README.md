@@ -41,6 +41,8 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [Reversing Warmup 1](ReverseEngineering/Reversing_Warmup_1)
 - [Reversing Warmup 2](ReverseEngineering/Reversing_Warmup_2)
 - [assembly-0](ReverseEngineering/assembly-0)
+- [assembly-1](ReverseEngineering/assembly-1)
+- [be-quick-or-be-dead-1](ReverseEngineering/be-quick-or-be-dead-1)
 
 ## Forensics
 - [Forensics Warmup 1](Forensics/Forensics_Warmup_1)
@@ -50,3 +52,4 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [Recovering From the Snap](Forensics/Recovering_From_the_Snap)
 - [admin panel](Forensics/admin_panel)
 - [hex editor](Forensics/hex-editor)
+- [Truly an Artist](Forensics/Truly_an_Artist)

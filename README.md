@@ -23,6 +23,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [HEEEEEEERE'S Johnny!](Cryptography/HEEEEEEERES_Johnny)
 - [caesar cipher 1](Cryptography/caesar_cipher_1)
 - [hertz](Cryptography/hertz)
+- [blaise's cipher](Cryptography/blaises-cipher)
 
 ## Binary Exploitation
 - [buffer overflow 0](BinaryExploitation/buffer_overflow_0)

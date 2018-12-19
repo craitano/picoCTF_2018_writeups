@@ -29,7 +29,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 ## Binary Exploitation
 - [buffer overflow 0](BinaryExploitation/buffer_overflow_0)
 - [buffer overflow 1](BinaryExploitation/buffer_overflow_1)
-- [leak-me](BinaryExploitatio/leak-me)
+- [leak-me](BinaryExploitation/leak-me)
 
 ## Web Exploitation
 __Note:__ Many of these require the picoCTF servers to interact with. I don't know how long the servers will remain active, but once the servers are shut down some required websites will no longer be available.

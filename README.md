@@ -24,6 +24,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [caesar cipher 1](Cryptography/caesar_cipher_1)
 - [hertz](Cryptography/hertz)
 - [blaise's cipher](Cryptography/blaises-cipher)
+- [hertz 2](Cryptography/hertz_2)
 
 ## Binary Exploitation
 - [buffer overflow 0](BinaryExploitation/buffer_overflow_0)

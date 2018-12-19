@@ -57,3 +57,4 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [admin panel](Forensics/admin_panel)
 - [hex editor](Forensics/hex-editor)
 - [Truly an Artist](Forensics/Truly_an_Artist)
+- [now you don't](Forensics/now_you_dont)

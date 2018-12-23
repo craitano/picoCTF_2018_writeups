@@ -47,6 +47,7 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [assembly-0](ReverseEngineering/assembly-0)
 - [assembly-1](ReverseEngineering/assembly-1)
 - [be-quick-or-be-dead-1](ReverseEngineering/be-quick-or-be-dead-1)
+- [quackme](ReverseEngineering/quackme/README.md)
 
 ## Forensics
 - [Forensics Warmup 1](Forensics/Forensics_Warmup_1)

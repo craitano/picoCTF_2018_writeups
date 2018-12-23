@@ -177,7 +177,6 @@ cmp: 2906164f2b35301e511b5b144b085d2b5217015716115c075d004e6f206c696e65207265616
 
 Since an XOR is an involution (it undoes itself), it should be possible to get the correct password by performing an XOR on these values. There are online tools for this. I used [this](https://onlinehextools.com/xor-hex-numbers) one. This gives ```7069636f4354467b717534636b6d335f37656433366534627d493b0c4b4c3e0b070c52040f00```. We can then use a hex to ascii converter, such as [this](https://www.rapidtables.com/convert/number/hex-to-ascii.html) one to get the flag. Notice there are extra charaters at the end, so it clearly wasn't null terminated.
 
-We can then use an 
 ### Flag:
 
 picoCTF{qu4ckm3_7ed36e4b}

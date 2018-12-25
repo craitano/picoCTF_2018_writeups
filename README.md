@@ -16,6 +16,8 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [Aca-Shell-A](GeneralSkills/Aca-Shell-A)
 - [environ](GeneralSkills/environ)
 - [ssh-keyz](GeneralSkills/ssh-keyz)
+- [what base is this?](GeneralSkills/what_base_is_this)
+- [you can't see me](GeneralSkills/you_cant_see_me)
 
 ## Cryptography
 - [Crypto Warmup 1](Cryptography/Crypto_Warmup_1)

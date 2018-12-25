@@ -3,7 +3,7 @@ These are writeups for the challenges I have completed in [picoCTF 2018](https:/
 
 Note: not all of the challenges appear here. I am still in the process of completing the challenges and will add solutions as they are completed.
 
-## General Skills
+## General Skills (14/20 completed)
 - [General Warmup 1](GeneralSkills/General_Warmup_1)
 - [General Warmup 2](GeneralSkills/General_Warmup_2)
 - [General Warmup 3](GeneralSkills/General_Warmup_3)
@@ -19,7 +19,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [what base is this?](GeneralSkills/what_base_is_this)
 - [you can't see me](GeneralSkills/you_cant_see_me)
 
-## Cryptography
+## Cryptography (7/20 completed)
 - [Crypto Warmup 1](Cryptography/Crypto_Warmup_1)
 - [Crypto Warmup 2](Cryptography/Crypto_Warmup_2)
 - [HEEEEEEERE'S Johnny!](Cryptography/HEEEEEEERES_Johnny)
@@ -28,12 +28,12 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [blaise's cipher](Cryptography/blaises-cipher)
 - [hertz 2](Cryptography/hertz_2)
 
-## Binary Exploitation
+## Binary Exploitation (3/20 completed)
 - [buffer overflow 0](BinaryExploitation/buffer_overflow_0)
 - [buffer overflow 1](BinaryExploitation/buffer_overflow_1)
 - [leak-me](BinaryExploitation/leak-me)
 
-## Web Exploitation
+## Web Exploitation (7/20 completed)
 __Note:__ Many of these require the picoCTF servers to interact with. I don't know how long the servers will remain active, but once the servers are shut down some required websites will no longer be available.
 - [Inspect Me](WebExploitation/Inspect_Me)
 - [Client Side is Still Bad](WebExploitation/Client_Side_is_Still_Bad)
@@ -43,7 +43,7 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [No Login](WebExploitation/No_Login)
 - [Secret Agent](WebExploitation/Secret_Agent)
 
-## Reverse Engineering
+## Reverse Engineering (6/20 completed)
 - [Reversing Warmup 1](ReverseEngineering/Reversing_Warmup_1)
 - [Reversing Warmup 2](ReverseEngineering/Reversing_Warmup_2)
 - [assembly-0](ReverseEngineering/assembly-0)
@@ -51,7 +51,7 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [be-quick-or-be-dead-1](ReverseEngineering/be-quick-or-be-dead-1)
 - [quackme](ReverseEngineering/quackme/README.md)
 
-## Forensics
+## Forensics (9/20 completed)
 - [Forensics Warmup 1](Forensics/Forensics_Warmup_1)
 - [Forensics Warmup 2](Forensics/Forensics_Warmup_2)
 - [Desrouleaux](Forensics/Desrouleaux)

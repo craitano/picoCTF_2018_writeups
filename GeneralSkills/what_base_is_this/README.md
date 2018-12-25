@@ -48,7 +48,7 @@ print("hexidecimal: " + hex_word)
 
 ```
 
-I saved this file as 2ascii and ran it on each sequence of numbers given.
+I saved this file as [2ascii](2ascii) and ran it on each sequence of numbers given.
 
 ```bash 
 ./2ascii 01100111 01101001 01101101 01110000

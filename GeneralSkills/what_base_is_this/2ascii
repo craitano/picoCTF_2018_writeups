@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+
+import sys
+
+def to_ascii(data, base, num_chars):
+  word = ""
+  try:
+    while(len(data) % num_chars > 0):
+      data = '0' + data
+    for i in range(int(len(data) / num_chars)):
+      word += chr(int(data[i*num_chars:(i+1)*num_chars], base))
+    return word
+  except:
+    return ""
+
+bin_word = ""
+oct_word = ""
+dec_word = ""
+hex_word = ""
+for i, arg in enumerate(sys.argv):
+  if i > 0:
+    bin_word += to_ascii(arg, 2, 8)
+    oct_word += to_ascii(arg, 8, 3)
+    dec_word += to_ascii(arg, 10, 3)
+    hex_word += to_ascii(arg, 16, 2)
+print("binary: " +  bin_word) 
+print("octal: " + oct_word)
+print("decimal: " + dec_word)
+print("hexidecimal: " + hex_word)
+

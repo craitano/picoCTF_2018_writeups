@@ -4,7 +4,7 @@ __Points:__ 250
 
 ### Problem:
 
-In a filesystem, everything is relative ¯\_(ツ)_/¯. Can you find a way to get a flag from this [program](absolutely-relative)? You can find it in /problems/absolutely-relative_3_c1a43555f1585c98aab8d5d2c7f0f9cc on the shell server. [Source](absolutely-relative.c).
+In a filesystem, everything is relative ¯\\_(ツ)_/¯. Can you find a way to get a flag from this [program](absolutely-relative)? You can find it in /problems/absolutely-relative_3_c1a43555f1585c98aab8d5d2c7f0f9cc on the shell server. [Source](absolutely-relative.c).
 
 ##### Hints:
 > Do you have to run the program in the same directory? (⊙.☉)7
@@ -23,8 +23,6 @@ I then navigated to my home directory, created the file, and executed teh progra
 $ cd ~
 $ echo "yes" > permission.txt           
 $ /problems/absolutely-relative_3_c1a43555f1585c98aab8d5d2c7f0f9cc/absolutely-relative 
-You have the write permissions.
-picoCTF{3v3r1ng_1$_r3l3t1v3_6193e4db}
 ```
 
 ### Flag:

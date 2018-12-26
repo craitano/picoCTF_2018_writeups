@@ -20,7 +20,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [you can't see me](GeneralSkills/you_cant_see_me)
 - [absolutely relative](GeneralSkills/absolutely_relative)
 - [in out error](GeneralSkills/in_out_error)
-- [learn gdb[(GeneralSkills/learn_gdb)
+- [learn gdb](GeneralSkills/learn_gdb)
 
 ## Cryptography (7/20 completed)
 - [Crypto Warmup 1](Cryptography/Crypto_Warmup_1)

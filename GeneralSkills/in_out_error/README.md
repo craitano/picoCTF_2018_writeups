@@ -4,7 +4,7 @@ __Points:__ 275
 
 ### Problem:
 
-Can you utlize stdin, stdout, and stderr to get the flag from this [program](in-out-errorc)? You can also find it in /problems/in-out-error_0_0f875f7714b995dad5946a15be6267a7 on the shell server
+Can you utlize stdin, stdout, and stderr to get the flag from this [program](in-out-error)? You can also find it in /problems/in-out-error_0_0f875f7714b995dad5946a15be6267a7 on the shell server
 
 ##### Hints:
 > Maybe you can split the stdout and stderr output?

@@ -1,4 +1,4 @@
-# Dog of Frog
+# Dog or Frog
 __Category:__ General Skills   
 __Points:__ 900
 

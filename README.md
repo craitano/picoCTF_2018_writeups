@@ -3,7 +3,7 @@ These are writeups for the challenges I have completed in [picoCTF 2018](https:/
 
 Note: not all of the challenges appear here. I am still in the process of completing the challenges and will add solutions as they are completed.
 
-## General Skills (18/20 completed)
+## General Skills (19/20 completed)
 - [General Warmup 1](GeneralSkills/General_Warmup_1)
 - [General Warmup 2](GeneralSkills/General_Warmup_2)
 - [General Warmup 3](GeneralSkills/General_Warmup_3)
@@ -22,6 +22,7 @@ Note: not all of the challenges appear here. I am still in the process of comple
 - [in out error](GeneralSkills/in_out_error)
 - [learn gdb](GeneralSkills/learn_gdb)
 - [store](GeneralSkills/store)
+- [script me](GeneralSkills/script_me)
 
 ## Cryptography (7/20 completed)
 - [Crypto Warmup 1](Cryptography/Crypto_Warmup_1)

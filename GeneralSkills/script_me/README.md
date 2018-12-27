@@ -31,10 +31,13 @@ Example:
 
 It took a bit of testing for me to completely understand these rules. This is my explanation of the language:
 
-> Each sentence includes pairs of parenthesis. E.g. ()  
-> Parenthesis can be nested. E.g. (()) or ((()()))  
-> The depth of a sentence is the largest number of unpaired open parenthesis at any point in the sentence. E.g. () has depth 1, (()) and (())() have depth 2 ((())) and ((())()) have depth 3.  
-> Two sentences can be added as follows (left sentence is __bold__):  
+> Each sentence includes pairs of parenthesis. E.g. ()
+
+> Parenthesis can be nested. E.g. (()) or ((()()))
+
+> The _depth_ of a sentence is the largest number of unpaired open parenthesis at any point in the sentence. E.g. () has depth 1, (()) and (())() have depth 2 ((())) and ((())()) have depth 3.
+
+> Two sentences can be added as follows (left sentence is __bold__):
 > * if both have the same depth: concatenate. E.g. __()__ + () = __()__() and __(())__ + (()()) = __(())__(()())  
 > * if the left has a smaller depth it is placed inside the outermost pair of parenthesis at the start of the right sentence. E.g. __()__ + (()) = (__()__()) and __(())__ + (()(())()) = (__(())__()(())())  
 > * if the right has a smaller depth it is placed inside the outermot pair of parenthesis at the end of the left sentence. E.g. __(())__ + () = __(()__()__)__ and __(()(())())__ + (()) = __(()(())()__(())__)__  

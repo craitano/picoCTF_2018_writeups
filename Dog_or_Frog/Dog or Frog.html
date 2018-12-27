@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- saved from url=(0036)http://2018shell3.picoctf.com:18466/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Dog or Frog</title>
+		<link rel="stylesheet" type="text/css" href="./Dog or Frog_files/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="./Dog or Frog_files/bootstrap-reboot.css">
+		<link rel="stylesheet" type="text/css" href="./Dog or Frog_files/bootstrap-grid.css">
+		<link rel="stylesheet" type="text/css" href="./Dog or Frog_files/styles.css">
+	</head>
+	
+	<body>
+		
+		<div class="row">
+			<div class="col-md-12 title-bar">
+				Dog or Frog
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="row top30">
+			<div class="opening-text">
+				<h2>Help Me!</h2>
+				<p> I'm going to a Halloween Party soon, and need a costume. Could you use one of those fancy new <strike>clouds</strike>
+				<strike>blockchains</strike> <strike>quantum computers</strike> Convolutional Neural Networks and help me out? I'd like a photo of me
+				as a tree frog, and have the CNN recognize me as such, but still have the photo look like me.</p>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center top50">
+			<div class="col-md-2">
+				<nav class="nav nav-pills flex-column dressme" aria-orientation="vertical">
+					<h4>Notes Needed</h4>
+					<a class="nav-item nav-link" href="http://2018shell3.picoctf.com:18466/static/model.h5">Model</a>
+					<a class="nav-item nav-link" href="http://2018shell3.picoctf.com:18466/static/solution_template.py">Solution Template</a>
+					<a class="nav-item nav-link" href="http://2018shell3.picoctf.com:18466/static/notes.txt">Breaking the Fourth Wall</a>
+					<a class="nav-item nav-link" href="http://2018shell3.picoctf.com:18466/static/source.tar.gz">Source</a>
+					<a class="nav-item nav-link" href="https://ai.googleblog.com/2018/09/introducing-unrestricted-adversarial.html">Google's Challenge</a>
+				</nav>
+			</div>
+			<div class="col-md-3 text-center">
+				<img src="./Dog or Frog_files/trixi.png" alt="Lovely Frog" style="width:324px;height:576px;">
+			</div>
+			<div class="col-md-2">
+				<div class="dressme">
+					<h3>Dress Me Up</h3>
+					<form action="http://2018shell3.picoctf.com:18466/predict" method="post" enctype="multipart/form-data">
+						<div class="form-group">
+							<label for="frog"><b>Tree Frog:</b></label><input type="file" class="form-control-file" name="frog" required="">
+						</div>
+						<button type="submit" class="btn btn-success" value="Upload">Upload</button>
+					</form>
+				</div>
+			</div>
+		</div>
+    
+    
+</body></html>

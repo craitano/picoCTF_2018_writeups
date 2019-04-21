@@ -48,6 +48,7 @@ __Note:__ Many of these require the picoCTF servers to interact with. I don't kn
 - [No Login](WebExploitation/No_Login)
 - [Secret Agent](WebExploitation/Secret_Agent)
 - [Buttons](WebExploitation/Buttons)
+- [The Vault](WebExploitation/The_Vault)
 
 ## Reverse Engineering (6/20 completed)
 - [Reversing Warmup 1](ReverseEngineering/Reversing_Warmup_1)
